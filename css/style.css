@@ -1,0 +1,14 @@
+.tablalistado{
+    border-collapse: collapse;
+    margin: 15px;
+}
+.tablalistado th{
+    background-color: #e9e65d;
+    padding: 10px;
+    border: 1px solid #000;
+}
+.tablalistado td{
+    background-color: #d5ee49;
+    padding: 10px;
+    border: 1px solid #000;
+}
